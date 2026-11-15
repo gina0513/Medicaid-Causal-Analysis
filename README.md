@@ -60,7 +60,7 @@ https://doi.org/10.7910/DVN/SJG1ED
 - **Collider bias:** analyzing only survey respondents conditions on a variable affected by both enrollment and health.
 ## Tools
  
-The analysis was carried out in [수업에서 사용한 분석 사이트 이름], a web-based causal inference tool provided for the course, so this repository contains the report, slides, and figures rather than code.
+The analysis was carried out in Professor Falco J. Bargagli Stoffi's website, a web-based causal inference tool provided for the course, so this repository contains the report, slides, and figures rather than code.
  
 ## Repository structure
  
