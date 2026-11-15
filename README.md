@@ -21,10 +21,18 @@ We focused on a single pre-chosen outcome to avoid multiple testing across the m
  
 ## Data
  
-Oregon Health Insurance Experiment public-use data (NBER). About 30,000 names were drawn from a waitlist of roughly 90,000, and only about 30% of those selected actually enrolled.
- 
-The data is not included in this repository. The public-use files are available from NBER: [NBER 데이터 페이지 링크]
- 
+Oregon Health Insurance Experiment public-use data, distributed by NBER
+([data page](https://www.nber.org/research/data/oregon-health-insurance-experiment-data);
+free NBER login required). We used a cleaned version prepared by the course instructor,
+which is not included in this repository.
+
+About 30,000 names were drawn from a waitlist of roughly 90,000, and only about 30% of
+those selected actually enrolled.
+
+Data citation: Finkelstein, A., Baicker, K., Taubman, S., et al. (2018).
+Replication Data for: Oregon Health Insurance Experiment. Harvard Dataverse.
+https://doi.org/10.7910/DVN/SJG1ED
+
 ## Methods
  
 1. **Balance check.** Standardized mean differences across 23 baseline covariates (Love plot). 22 of 23 were below 0.1. Household size was the exception (SMD ≈ 0.20), because the lottery let a whole household enroll from one selected name.
