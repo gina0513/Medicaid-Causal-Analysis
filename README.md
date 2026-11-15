@@ -2,8 +2,8 @@
  
 Does being offered Medicaid lower blood pressure within a year? Using the Oregon Health Insurance Experiment, where Medicaid eligibility was assigned by lottery, we estimate the intent-to-treat (ITT) effect of lottery selection on systolic blood pressure 12 months later.
  
-**Course:** BIOSTAT 125, UCLA (Spring 2026)
-**Team:** Yoonseo Yeo, Asher Izower, Kethy Zhang
+**Course:** BIOSTAT 125, UCLA (Spring 2026) \
+**Team:** Yoonseo Yeo, Asher Izower, Kethy Zhang \
 **My role:** Led the analysis for balance diagnostics (Q3), confounding and backdoor paths (Q4), and threats to validity (Q8), and revised the full presentation for consistency across all sections.
  
 📄 [Final report (PDF)](report/BIOSTAT125_Final_Report.pdf) · 📊 [Slides (PDF)](slides/BIOSTAT125_Slides.pdf)
