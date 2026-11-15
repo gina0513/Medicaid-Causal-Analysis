@@ -30,7 +30,7 @@ For low-income uninsured adults in Oregon's 2008 Medicaid lottery, what is the a
 
 <p align="center">
   <img src="figures/dag.png" width="48%" alt="Causal DAG" />
-  <img src="figures/love_plot.png" width="48%" alt="Covariate Balance Love Plot" />
+  <img src="figures/Love Plot.png" width="48%" alt="Covariate Balance Love Plot" />
 </p>
 
 ### Results
@@ -44,7 +44,7 @@ For low-income uninsured adults in Oregon's 2008 Medicaid lottery, what is the a
 * **CATE:** $+0.36\text{ mmHg}$ without baseline hypertension and $-0.39\text{ mmHg}$ with it (interaction $-0.75\text{ mmHg}$, $\text{SE} = 1.08$, $p = 0.49$). The direction matched our hypothesis, but the data could not tell the two groups apart.
 
 <p align="center">
-  <img src="figures/cate_by_hypertension.png" width="75%" alt="CATE by Baseline Hypertension" />
+  <img src="figures/CATE Interaction Test.png" width="75%" alt="CATE by Baseline Hypertension" />
 </p>
 
 ### Takeaways
